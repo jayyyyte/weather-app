@@ -63,28 +63,6 @@ npm run build
 3. Copy the API key from the dashboard
 4. Paste it into the `.env` file
 
-## 📸 Screenshots
-
-### Light Mode
-![Light Mode](screenshots/light-mode.png)
-
-### Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
-
-### Current Weather
-![Current Weather](screenshots/current-weather.png)
-
-### 24-Hour Temperature
-![24-Hour Temperature](screenshots/24-hour-temperature.png)
-
-### 7-Day Forecast
-![7-Day Forecast](screenshots/7-day-forecast.png)
-
-### City Search
-![City Search](screenshots/city-search.gif)
-
-### Current Location
-![Current Location](screenshots/current-location.gif)
 
 ## 4. Knowledge 
 
